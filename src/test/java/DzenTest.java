@@ -1,6 +1,6 @@
 import Core.BaseTest;
-import Page.ResultPage;
-import Page.MainPage;
+import Pages.ResultPage;
+import Pages.MainPage;
 import com.codeborne.selenide.Selenide;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
